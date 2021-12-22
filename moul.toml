@@ -1,0 +1,27 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "system-preference"
+cover = "center"
+content = "left"
+
+[profile]
+name = "Linghua Zhang"
+bio = "Minimalist | Appleist | Unixer | Coder"
+
+[social]
+twitter = "o_lll"
+github = "waynezhang"
+instagram = "o_lll"
+facebook = ""
+youtube = ""
+
+[content]
+title = "rusty shutter"
+text = ""
+
+[section.1]
+title = "the tired one"
+text = ""

@@ -1,0 +1,7 @@
+--login=o_lll
+:saved
+--no-captions
+--no-metadata-json
+--no-profile-pic
+--dirname-pattern=photos/collection
+--filename-pattern={date_utc}
