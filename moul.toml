@@ -4,12 +4,12 @@ ga_measurement_id = ""
 
 [style]
 theme = "system-preference"
-cover = "center"
+cover = "none"
 content = "left"
 
 [profile]
 name = "Linghua Zhang"
-bio = "Minimalist | Appleist | Unixer | Coder"
+bio = "Minimalist | Coder"
 
 [social]
 twitter = "o_lll"
