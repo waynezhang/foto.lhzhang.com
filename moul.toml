@@ -6,6 +6,7 @@ ga_measurement_id = ""
 theme = "system-preference"
 cover = "none"
 content = "left"
+photo_order = "descending"
 
 [profile]
 name = "Linghua Zhang"
