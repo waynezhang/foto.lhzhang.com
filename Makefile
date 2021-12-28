@@ -1,5 +1,5 @@
 clean:
-	@rm -rf docs
+	@find docs -depth 1 -not -name "CNAME" -exec rm -rf {} +
 
 purge:
 	@rm -rf .moul
@@ -15,3 +15,4 @@ download:
 
 export: clean
 	@moul export --o docs
+	@cp CNAME docs
