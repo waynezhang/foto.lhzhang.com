@@ -1,0 +1,45 @@
+# Site meta data
+[site]
+title = "rusty shutter"
+author = "Linghua Zhang"
+
+# Site navigation links
+[[site.nav]]
+icon = "assets/icons/home.svg"
+link = "https://lhzhang.com"
+
+[[site.nav]]
+icon = "assets/icons/instagram.svg"
+link = "https://instagram.com/o_lll"
+
+[[site.nav]]
+icon = "assets/icons/twitter.svg"
+link = "https://twitter.com/o_lll"
+
+# Setttings for photo size
+[image]
+thumbnailWidth = 640
+originalWidth = 2048
+
+# Photo sections
+[[section]]
+title = "rusty ones"
+text = ""
+slug = "rusty-ones"
+folder = "photos/rusty-ones"
+
+[[section]]
+title = "the tired ones"
+text = ""
+slug = "tired-ones"
+folder = "photos/tired-ones"
+
+[[section]]
+title = "the colorful world"
+text = ""
+slug = "colorful-ones"
+folder = "photos/colorful-ones"
+
+[others]
+folders = [ "media", "CNAME" ]
+show_foto_footer = true
