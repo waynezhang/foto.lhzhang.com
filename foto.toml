@@ -41,5 +41,5 @@ slug = "colorful-ones"
 folder = "photos/colorful-ones"
 
 [others]
-folders = [ "media", "CNAME" ]
+folders = [ "assets", "media", "CNAME" ]
 show_foto_footer = true
