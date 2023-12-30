@@ -21,6 +21,12 @@ link = "https://twitter.com/o_lll"
 thumbnailWidth = 640
 originalWidth = 2048
 
+# Layout for grids
+[layout]
+minColumn = 1
+maxColumn = 4
+minWidth = 200
+
 # Photo sections
 [[section]]
 title = "rusty ones"
